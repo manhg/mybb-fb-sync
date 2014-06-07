@@ -1,0 +1,12 @@
+{
+    "require": {
+        "facebook/php-sdk": "3.*",
+        "maximebf/consolekit": "1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Command": ".",
+            "Sync": "."
+        }
+    }
+}
